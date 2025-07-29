@@ -18,5 +18,5 @@ Projects Based on Machine Learning`. It includes the dataset of technical debt p
    pip install -r requirements.txt
 
 ## Before Running
-
+Before running the Jupyter file, please note to modify the file path and parameter "step_ahead".
    
